@@ -2,7 +2,7 @@
 
 # Coffee Shop Purchase Analysis 
 
-The aim of this project is to conduct a comprehensive analysis of my coffee purchasing habits during the current semester. This analysis is based on transaction data obtained from my bank account, focusing on five coffee shops located within my university campus: Starbucks, Espressolab, Coffee, Fasshane and Simit Sarayı.
+The aim of this project is to conduct a comprehensive analysis of my coffee purchasing habits during the current semester. This analysis is based on transaction data obtained from my bank account, focusing on five coffee shops located within my university campus: Starbucks, Espressolab, Coffy, Fasshane and Simit Sarayı.
 
 Through this project, I seek to identify patterns in my spending behavior, such as the frequency and timing of purchases at each coffee shop. Additionally, I aim to explore correlations between these purchasing habits and external factors, including exam periods and the locations of my classes. By gaining insights into how these factors influence my coffee shop preferences, I hope to better understand the role of convenience, academic stress, and schedule in shaping my consumption choices.
 
