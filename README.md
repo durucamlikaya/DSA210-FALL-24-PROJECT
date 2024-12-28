@@ -1,6 +1,6 @@
 # DSA210-FALL-24-PROJECT
 
-# Coffee Shop Purchase Analysis 
+# Coffee Consumption Patterns on Campus
 
 The aim of this project is to conduct a comprehensive analysis of my coffee purchasing habits during the current semester. This analysis is based on transaction data obtained from my bank account, focusing on five coffee shops located within my university campus: Starbucks, Espressolab, Coffy, Fasshane and Simit Sarayı.
 
