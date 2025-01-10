@@ -13,6 +13,17 @@ The results of this analysis could offer meaningful observations about how perso
 
 # Data Collection and Preprocessing
 
+# a. Bank Account Data
+Source: Bank transaction statements.
+Extraction:
+- Retrieved relevant transaction details such as date, time, and description.
+- Filtered transactions that corresponded to coffee shop purchases using regex patterns.
+# b. Academic Calendar Data
+Source: Google Calendar exported as a CSV file.
+Extraction:
+- Parsed lesson/exam schedules including date, time, lesson name, and location.
+- Used the structure of rows in the calendar file to correctly extract relevant information.
+
 # Exploratory Data Analysis (EDA)
 
 # Key Findings
