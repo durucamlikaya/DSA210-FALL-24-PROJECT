@@ -65,3 +65,11 @@ Integration of more data sources, such as walking distances, weather conditions,
 Additionally, extending the study to include data from peers could help identify broader patterns or differences among similar academic routines, while a longitudinal study could track changes in preferences over time. From this project, I have already improved my skills in data collection, preprocessing, and visualization, as well as gained a deeper understanding of how personal routines affect decision-making. In the future, these insights could be leveraged for personal efficiency, cost-saving strategies, and even creating predictive tools or dashboards that could be shared or monetized for broader use.
 
 # Conclusion 
+
+The graph displays faculties on the x-axis and coffee shops used in my project on the y-axis. If my coffee shop preferences were perfectly aligned with my academic schedule, the values on the graph would lie on a line with a slope of 1 passing through the origin. However, we can observe that the values are more scattered in this graph. Both axes are ordered based on proximity, starting from the dormitories on the x-axis and the closest coffee shop to the dormitories on the y-axis.
+
+The ideal point of reference is purchasing coffee from Espressolab while being at the dormitories, which would lie on the line with a slope of 1. Based on the proximity of the points to this ideal line, I decided to assign scores between 0 and 4. Points on the line received a score of 4, those one unit away scored 3, two units away scored 2, and three units away scored 1. Using these scores, I calculated the average score for each faculty by dividing the total of the assigned scores by the number of purchases made from each coffee shop.
+
+The results showed that the FMAN faculty scored 3.5 out of 4, FENS scored 2.6 out of 4, and FASS scored 2.81 out of 4. When converted into percentages, FMAN achieved 87.5%, FENS 65%, and FASS 70.45%. On average, the impact of my academic schedule on my coffee shop location preferences was calculated to be 74.32%.
+
+Since this average falls below the hypothesized value of 75%, the results do not support my hypothesis.
