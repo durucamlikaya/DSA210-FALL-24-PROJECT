@@ -8,7 +8,7 @@ Through this project, I seek to identify patterns in my spending behavior, such 
 
 The results of this analysis could offer meaningful observations about how personal routines and environmental factors impact daily spending behaviors, particularly in a campus setting where options are limited to specific vendors.
 
-- Code related to my project can be found in
+- Code related to my project can be found in finalcode.ipynb
 - The presentation can be found in https://docs.google.com/presentation/d/1xQR5WUnsheCSNZoUFfqBxDouofJyHl7i92n78sVOTuo/edit?usp=sharing
 
 # Data Collection and Preprocessing
